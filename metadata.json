@@ -1,0 +1,6 @@
+{
+  "name": "DroidPRO",
+  "description": "Advanced system monitor, resource tracker, hardware specifications viewer, root detector, and professional PDF report exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
